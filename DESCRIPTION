@@ -1,0 +1,7 @@
+Package: dfactr
+Title: An R Package for Dynamic Factor Analysis
+Description:
+Version: 0.1
+Author: Francis J. DiTraglia <fditra@sas.upenn.edu>
+Maintainer: Francis J. DiTraglia <fditra@sas.upenn.edu>
+License: GPL-2
